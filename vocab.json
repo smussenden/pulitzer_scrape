@@ -1,0 +1,3727 @@
+[
+    {
+      "tid": "104",
+      "name": "2016",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Paul Gigot, chair; Mike Pride, administrator"
+      }
+    },
+    {
+      "tid": "105",
+      "name": "2015",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Danielle Allen, chair; Mike Pride, administrator"
+      }
+    },
+    {
+      "tid": "106",
+      "name": "2014",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Paul C. Tash, chair; Sig Gissler, administrator"
+      }
+    },
+    {
+      "tid": "107",
+      "name": "2013",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Thomas L. Friedman and Gregory Moore, co-chairs; Sig Gissler, administrator"
+      }
+    },
+    {
+      "tid": "108",
+      "name": "2012",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Kathleen Carroll, Ann Marie Lipinski and Jim Amoss, co-chairs; Sig Gissler, administrator"
+      }
+    },
+    {
+      "tid": "109",
+      "name": "2011",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "David M. Kennedy, chair; Sig Gissler, administrator"
+      }
+    },
+    {
+      "tid": "110",
+      "name": "2010",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Anders Gyllenhaal, chair; Sig Gissler, administrator"
+      }
+    },
+    {
+      "tid": "111",
+      "name": "2009",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Richard Oppel, chair; Sig Gissler, administrator"
+      }
+    },
+    {
+      "tid": "112",
+      "name": "2008",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joann Byrd and Mike Pride, co-chairs; Sig Gissler, administrator"
+      }
+    },
+    {
+      "tid": "113",
+      "name": "2007",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Paul Steiger, chair; Sig Gissler, administrator"
+      }
+    },
+    {
+      "tid": "114",
+      "name": "2006",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Henry Louis Gates, Jr., chair; Sig Gissler, administrator"
+      }
+    },
+    {
+      "tid": "115",
+      "name": "2005",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Andrew Barnes, chair; Sig Gissler, administrator"
+      }
+    },
+    {
+      "tid": "116",
+      "name": "2004",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Rena Pederson and William Safire, co-chairs; Sig Gissler, administrator"
+      }
+    },
+    {
+      "tid": "117",
+      "name": "2003",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Sandra Mims Rowe, chair; Sig Gissler, administrator"
+      }
+    },
+    {
+      "tid": "118",
+      "name": "2002",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "John S. Carroll, chair; Seymour Topping, administrator"
+      }
+    },
+    {
+      "tid": "119",
+      "name": "2001",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Edward Seaton, chair; Seymour Topping, administrator"
+      }
+    },
+    {
+      "tid": "120",
+      "name": "2000",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Jack Fuller and John L. Dotson, Jr. co- chairs; Seymour Topping, administrator"
+      }
+    },
+    {
+      "tid": "121",
+      "name": "1999",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "James V. Risser and Walter Rugaber, co-chairs; Seymour Topping, administrator"
+      }
+    },
+    {
+      "tid": "122",
+      "name": "1998",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Geneva Overholser, chair; Seymour Topping, administrator"
+      }
+    },
+    {
+      "tid": "123",
+      "name": "1997",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Sissela Bok, chairman; Seymour Topping, administrator"
+      }
+    },
+    {
+      "tid": "124",
+      "name": "1996",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Peter R. Kann, chair, Seymour Topping, administrator"
+      }
+    },
+    {
+      "tid": "125",
+      "name": "1995",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Meg Greenfield and Burl Osborne, co-chairs; Seymour Topping, administrator"
+      }
+    },
+    {
+      "tid": "126",
+      "name": "1994",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Russell Baker, chair; Seymour Topping, administrator"
+      }
+    },
+    {
+      "tid": "127",
+      "name": "1993",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Claude F. Sitton, chair; Seymour Topping, administrator"
+      }
+    },
+    {
+      "tid": "128",
+      "name": "1992",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "129",
+      "name": "1991",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "James F. Hoge, chair; Robert C. Christopher, secretary"
+      }
+    },
+    {
+      "tid": "130",
+      "name": "1990",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Eugene L. Roberts, Jr., chair; Robert C. Christopher, secretary"
+      }
+    },
+    {
+      "tid": "131",
+      "name": "1989",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "132",
+      "name": "1988",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Roger W. Wilkins, chair; Robert C. Christopher, secretary"
+      }
+    },
+    {
+      "tid": "133",
+      "name": "1987",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "134",
+      "name": "1986",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr., chair; Robert Christopher, secretary."
+      }
+    },
+    {
+      "tid": "135",
+      "name": "1985",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr., chair; Robert Christopher, secretary"
+      }
+    },
+    {
+      "tid": "136",
+      "name": "1984",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr., chair; Robert Christopher, secretary"
+      }
+    },
+    {
+      "tid": "137",
+      "name": "1983",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr., chair; Robert Christopher, secretary"
+      }
+    },
+    {
+      "tid": "138",
+      "name": "1982",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr., chair; Robert Christopher, secretary"
+      }
+    },
+    {
+      "tid": "139",
+      "name": "1981",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr., chair; Richard T. Baker, secretary"
+      }
+    },
+    {
+      "tid": "140",
+      "name": "1980",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr., chair; Richard T. Baker, secretary"
+      }
+    },
+    {
+      "tid": "141",
+      "name": "1979",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr., chair; Richard T. Baker, secretary"
+      }
+    },
+    {
+      "tid": "142",
+      "name": "1978",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr., chair; Richard T. Baker, secretary"
+      }
+    },
+    {
+      "tid": "143",
+      "name": "1977",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr. chair; Richard T. Baker, secretary"
+      }
+    },
+    {
+      "tid": "144",
+      "name": "1976",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "145",
+      "name": "1975",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr. chair; John Hohenberg, administrator"
+      }
+    },
+    {
+      "tid": "146",
+      "name": "1974",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr, chair; John Hohenberg, administrator"
+      }
+    },
+    {
+      "tid": "147",
+      "name": "1973",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr, chair; John Hohenberg, administrator"
+      }
+    },
+    {
+      "tid": "148",
+      "name": "1972",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr, chair; John Hohenberg, administrator"
+      }
+    },
+    {
+      "tid": "149",
+      "name": "1971",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr, chair; John Hohenberg, administrator"
+      }
+    },
+    {
+      "tid": "150",
+      "name": "1970",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr., chair; John Hohenberg, administrator"
+      }
+    },
+    {
+      "tid": "151",
+      "name": "1969",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "152",
+      "name": "1968",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Joseph Pulitzer, Jr., chair; John Hohenberg, secretary"
+      }
+    },
+    {
+      "tid": "153",
+      "name": "1967",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "154",
+      "name": "1966",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "155",
+      "name": "1965",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "156",
+      "name": "1964",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "157",
+      "name": "1963",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "158",
+      "name": "1962",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "159",
+      "name": "1961",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "160",
+      "name": "1960",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "161",
+      "name": "1959",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "162",
+      "name": "1958",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "163",
+      "name": "1957",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "164",
+      "name": "1956",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "165",
+      "name": "1955",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "166",
+      "name": "1954",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "167",
+      "name": "1953",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "168",
+      "name": "1952",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "169",
+      "name": "1951",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "170",
+      "name": "1950",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "171",
+      "name": "1949",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "172",
+      "name": "1948",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "173",
+      "name": "1947",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "174",
+      "name": "1946",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "175",
+      "name": "1945",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Frank R. Kent, chair; William O. Trapp, secretary pro-tem"
+      }
+    },
+    {
+      "tid": "176",
+      "name": "1944",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "177",
+      "name": "1943",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "178",
+      "name": "1942",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "179",
+      "name": "1941",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "180",
+      "name": "1940",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "181",
+      "name": "1939",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "182",
+      "name": "1938",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "183",
+      "name": "1937",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "184",
+      "name": "1936",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "185",
+      "name": "1935",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "186",
+      "name": "1934",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "187",
+      "name": "1933",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "188",
+      "name": "1932",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "189",
+      "name": "1931",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "190",
+      "name": "1930",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "191",
+      "name": "1929",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "192",
+      "name": "1928",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "193",
+      "name": "1927",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "194",
+      "name": "1926",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "195",
+      "name": "1925",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "196",
+      "name": "1924",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "197",
+      "name": "1923",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "198",
+      "name": "1922",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "199",
+      "name": "1921",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "200",
+      "name": "1920",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "201",
+      "name": "1919",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "202",
+      "name": "1918",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "203",
+      "name": "1917",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "226",
+      "name": "Journalism",
+      "v_name": "Subject Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "227",
+      "name": "Arts and Letters",
+      "v_name": "Subject Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "228",
+      "name": "Politics",
+      "v_name": "Subject Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "229",
+      "name": "Conflict",
+      "v_name": "Subject Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "230",
+      "name": "Science",
+      "v_name": "Subject Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "231",
+      "name": "U.S. Presidency",
+      "v_name": "Subject Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "232",
+      "name": "Civil Rights",
+      "v_name": "Subject Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "239",
+      "name": "Politics",
+      "v_name": "Tags",
+      "weight": "1",
+      "parent": "0"
+    },
+    {
+      "tid": "242",
+      "name": "War + Peace",
+      "v_name": "Topics",
+      "weight": "1",
+      "parent": "0"
+    },
+    {
+      "tid": "243",
+      "name": "The Presidency",
+      "v_name": "Topics",
+      "weight": "-5",
+      "parent": "0"
+    },
+    {
+      "tid": "245",
+      "name": "Power: Abuse and Accountability",
+      "v_name": "Topics",
+      "weight": "2",
+      "parent": "0"
+    },
+    {
+      "tid": "246",
+      "name": "This Day in Pulitzer History",
+      "v_name": "Topics",
+      "weight": "-10",
+      "parent": "0"
+    },
+    {
+      "tid": "247",
+      "name": "Origin Stories",
+      "v_name": "Topics",
+      "weight": "-7",
+      "parent": "0"
+    },
+    {
+      "tid": "257",
+      "name": "Journalism",
+      "v_name": "Award Category",
+      "weight": "45",
+      "parent": "0"
+    },
+    {
+      "tid": "258",
+      "name": "Books, Drama &amp; Music",
+      "v_name": "Award Category",
+      "weight": "43",
+      "parent": "0"
+    },
+    {
+      "tid": "259",
+      "name": "Special Citations",
+      "v_name": "Award Category",
+      "weight": "44",
+      "parent": "0",
+      "fields": {
+        "active_year_note": "(1917-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "280",
+      "name": "Campfires",
+      "v_name": "Event Types",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "281",
+      "name": "Marquee",
+      "v_name": "Event Types",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "282",
+      "name": "Featured Event",
+      "v_name": "Event Types",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "283",
+      "name": "Pulitzer Luncheon",
+      "v_name": "Event Types",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "284",
+      "name": "Pulitzer Seminar",
+      "v_name": "Event Types",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "285",
+      "name": "Iowa",
+      "v_name": "Geographic Areas",
+      "weight": "23",
+      "parent": "0"
+    },
+    {
+      "tid": "286",
+      "name": "Des Moines Register",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "287",
+      "name": "Eisenhower",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "289",
+      "name": "Russia",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "290",
+      "name": "World War II",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "5"
+      }
+    },
+    {
+      "tid": "292",
+      "name": "Press Releases",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "296",
+      "name": "Press Releases",
+      "v_name": "News Types",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "297",
+      "name": "The Pulitzers at 50",
+      "v_name": "Topics",
+      "weight": "-6",
+      "parent": "0"
+    },
+    {
+      "tid": "299",
+      "name": "The New York Times",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "17"
+      }
+    },
+    {
+      "tid": "301",
+      "name": "Frank D. Fackenthal",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "302",
+      "name": "Minnesota",
+      "v_name": "Geographic Areas",
+      "weight": "24",
+      "parent": "0"
+    },
+    {
+      "tid": "304",
+      "name": "The Age of Innocence",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "308",
+      "name": "The Wall Street Journal",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "3"
+      }
+    },
+    {
+      "tid": "309",
+      "name": "The Pulitzer Prize Board",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "28"
+      }
+    },
+    {
+      "tid": "310",
+      "name": "Nieman Foundation for Journalism",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "10"
+      }
+    },
+    {
+      "tid": "311",
+      "name": "Campfires Initiative",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "18"
+      }
+    },
+    {
+      "tid": "312",
+      "name": "The Poynter Institute",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "5"
+      }
+    },
+    {
+      "tid": "313",
+      "name": "Los Angeles Times",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "7"
+      }
+    },
+    {
+      "tid": "314",
+      "name": "George Bush Presidential Library and Museum",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "315",
+      "name": "George W. Bush Presidential Library and Museum",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "316",
+      "name": "Lyndon Baines Johnson Library and Museum",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "317",
+      "name": "Annenberg School, USC",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "3"
+      }
+    },
+    {
+      "tid": "318",
+      "name": "The Dallas Morning News",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "4"
+      }
+    },
+    {
+      "tid": "319",
+      "name": "Mellon Foundation",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "320",
+      "name": "Ford Foundation",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "321",
+      "name": "Carnegie Corporation",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "322",
+      "name": "Knight Foundation",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "323",
+      "name": "Joseph Pulitzer",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "6"
+      }
+    },
+    {
+      "tid": "324",
+      "name": "Plan of Award",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "325",
+      "name": "Omaha World-Herald",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "326",
+      "name": "Chicago Sun",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "327",
+      "name": "St. Louis Post Dispatch",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "328",
+      "name": "Vietnam",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "5"
+      }
+    },
+    {
+      "tid": "329",
+      "name": "Robert McNamara",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "330",
+      "name": "Nieman fellow",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "331",
+      "name": "Rhodes scholar",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "332",
+      "name": "Concord Monitor",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "333",
+      "name": "Tampa Bay Times",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "5"
+      }
+    },
+    {
+      "tid": "334",
+      "name": "Columbia Journalism School",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "4"
+      }
+    },
+    {
+      "tid": "336",
+      "name": "Philadelphia Daily News",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "337",
+      "name": "Pennsylvania",
+      "v_name": "Geographic Areas",
+      "weight": "4",
+      "parent": "0"
+    },
+    {
+      "tid": "338",
+      "name": "gun control",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "339",
+      "name": "Chicago Tribune",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "5"
+      }
+    },
+    {
+      "tid": "342",
+      "name": "Stars and Stripes",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "343",
+      "name": "Tribune Publishing",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "344",
+      "name": "Supreme Court",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "345",
+      "name": "Yale University",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "3"
+      }
+    },
+    {
+      "tid": "347",
+      "name": "Reagan administration",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "348",
+      "name": "From the Pulitzer files",
+      "v_name": "Topics",
+      "weight": "-9",
+      "parent": "0"
+    },
+    {
+      "tid": "349",
+      "name": "Harvard University",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "6"
+      }
+    },
+    {
+      "tid": "356",
+      "name": "The Washington Post",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "11"
+      }
+    },
+    {
+      "tid": "357",
+      "name": "The New Yorker",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "3"
+      }
+    },
+    {
+      "tid": "358",
+      "name": "The Miami Herald",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "3"
+      }
+    },
+    {
+      "tid": "359",
+      "name": "The Denver Post",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "361",
+      "name": "Maryland",
+      "v_name": "Geographic Areas",
+      "weight": "28",
+      "parent": "0"
+    },
+    {
+      "tid": "362",
+      "name": "Baltimore Sun",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "363",
+      "name": "India",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "366",
+      "name": "The Satanic Verses",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "368",
+      "name": "The Riverdale Press",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "369",
+      "name": "New York",
+      "v_name": "Geographic Areas",
+      "weight": "13",
+      "parent": "0"
+    },
+    {
+      "tid": "371",
+      "name": "Iran",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "372",
+      "name": "Vermont",
+      "v_name": "Geographic Areas",
+      "weight": "2",
+      "parent": "0"
+    },
+    {
+      "tid": "373",
+      "name": "Rutland Herald",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "374",
+      "name": "gay marriage",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "376",
+      "name": "Mexico",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "377",
+      "name": "immigration",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "378",
+      "name": "The Tribune (San Diego)",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "379",
+      "name": "The Times-Picayune",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "380",
+      "name": "Massachusetts Institute of Technology",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "381",
+      "name": "Rutgers University",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "382",
+      "name": "Cornell University",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "383",
+      "name": "Bloomberg News",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "384",
+      "name": "National Association of Black Journalists",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "385",
+      "name": "Stanford University",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "386",
+      "name": "Politico",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "390",
+      "name": "Northwestern University",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "391",
+      "name": "Austin American-Statesman",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "392",
+      "name": "Tallahassee Democrat",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "393",
+      "name": "Seattle Post-Intelligencer",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "396",
+      "name": "American Museum of Natural History",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "401",
+      "name": "New York Tribune",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "402",
+      "name": "World War I",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "403",
+      "name": "RMS Lusitania",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "404",
+      "name": "St. Louis Post-Dispatch",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "406",
+      "name": "The Bridge of San Luis Rey",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "407",
+      "name": "Wisconsin",
+      "v_name": "Geographic Areas",
+      "weight": "11",
+      "parent": "0"
+    },
+    {
+      "tid": "408",
+      "name": "Connecticut",
+      "v_name": "Geographic Areas",
+      "weight": "17",
+      "parent": "0"
+    },
+    {
+      "tid": "409",
+      "name": "Illinois",
+      "v_name": "Geographic Areas",
+      "weight": "22",
+      "parent": "0"
+    },
+    {
+      "tid": "410",
+      "name": "The New Republic",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "414",
+      "name": "The Skin of Our Teeth",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "415",
+      "name": "Florida",
+      "v_name": "Geographic Areas",
+      "weight": "14",
+      "parent": "0"
+    },
+    {
+      "tid": "416",
+      "name": "The Gainesville Sun",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "417",
+      "name": "University of Florida",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "422",
+      "name": "Emporia Gazette (Kansas)",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "429",
+      "name": "Plumes",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "430",
+      "name": "New York Herald Tribune",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "431",
+      "name": "Sputnik",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "432",
+      "name": "Cold War",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "433",
+      "name": "space race",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "434",
+      "name": "Gannett Newspapers",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "435",
+      "name": "Vincent S. Jones",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "436",
+      "name": "Hartford Times",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "438",
+      "name": "Rochester Democrat &amp; Chronicle",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "439",
+      "name": "Truman administration",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "444",
+      "name": "St. Petersburg Times",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "445",
+      "name": "Guardian&#039;s Office",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "446",
+      "name": "Internal Revenue Service",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "448",
+      "name": "Kennedy assassination",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "449",
+      "name": "Texas",
+      "v_name": "Geographic Areas",
+      "weight": "1",
+      "parent": "0"
+    },
+    {
+      "tid": "450",
+      "name": "Georgia",
+      "v_name": "Geographic Areas",
+      "weight": "15",
+      "parent": "0"
+    },
+    {
+      "tid": "454",
+      "name": "United States Naval Academy",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "455",
+      "name": "Virginia",
+      "v_name": "Geographic Areas",
+      "weight": "9",
+      "parent": "0"
+    },
+    {
+      "tid": "456",
+      "name": "Evening Star (Washington, DC)",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "457",
+      "name": "Carl Bernstein",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "460",
+      "name": "Zero Mostel",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "463",
+      "name": "New York World",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "465",
+      "name": "Germany",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "468",
+      "name": "Chicago Daily News",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "469",
+      "name": "Korea",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "473",
+      "name": "W.E.B. DuBois",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "475",
+      "name": "Harry S. Truman",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "478",
+      "name": "Robert J. Oppenheimer",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "480",
+      "name": "Lyndon Johnson",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "482",
+      "name": "George Washington",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "483",
+      "name": "Kentucky",
+      "v_name": "Geographic Areas",
+      "weight": "29",
+      "parent": "0"
+    },
+    {
+      "tid": "485",
+      "name": "Promises: Poems 1954-1956",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "486",
+      "name": "Now and Then: Poems 1976-1978",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "489",
+      "name": "John F. Kennedy",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "494",
+      "name": "Iraq",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "496",
+      "name": "Syria",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "497",
+      "name": "China",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "498",
+      "name": "Tiananmen Square",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "501",
+      "name": "Khmer Rouge",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "503",
+      "name": "Taliban",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "504",
+      "name": "The Daily Tribune (Iowa)",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "505",
+      "name": "Washington, DC",
+      "v_name": "Geographic Areas",
+      "weight": "10",
+      "parent": "0"
+    },
+    {
+      "tid": "506",
+      "name": "Massachusetts",
+      "v_name": "Geographic Areas",
+      "weight": "27",
+      "parent": "0"
+    },
+    {
+      "tid": "507",
+      "name": "Oregon",
+      "v_name": "Geographic Areas",
+      "weight": "7",
+      "parent": "0"
+    },
+    {
+      "tid": "508",
+      "name": "South Carolina",
+      "v_name": "Geographic Areas",
+      "weight": "3",
+      "parent": "0"
+    },
+    {
+      "tid": "509",
+      "name": "California",
+      "v_name": "Geographic Areas",
+      "weight": "21",
+      "parent": "0"
+    },
+    {
+      "tid": "510",
+      "name": "Centennial",
+      "v_name": "Topics",
+      "weight": "-1",
+      "parent": "0"
+    },
+    {
+      "tid": "511",
+      "name": "Paul Gigot",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "512",
+      "name": "North Dakota",
+      "v_name": "Geographic Areas",
+      "weight": "5",
+      "parent": "0"
+    },
+    {
+      "tid": "513",
+      "name": "Montana",
+      "v_name": "Geographic Areas",
+      "weight": "26",
+      "parent": "0"
+    },
+    {
+      "tid": "514",
+      "name": "Vermont",
+      "v_name": "Geographic Areas",
+      "weight": "8",
+      "parent": "0"
+    },
+    {
+      "tid": "515",
+      "name": "Maine",
+      "v_name": "Geographic Areas",
+      "weight": "30",
+      "parent": "0"
+    },
+    {
+      "tid": "516",
+      "name": "Mississippi",
+      "v_name": "Geographic Areas",
+      "weight": "25",
+      "parent": "0"
+    },
+    {
+      "tid": "518",
+      "name": "John S. and James L. Knight Foundation",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "519",
+      "name": "Newseum",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "3"
+      }
+    },
+    {
+      "tid": "520",
+      "name": "#Pulitzer100",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "8"
+      }
+    },
+    {
+      "tid": "524",
+      "name": "Ohio",
+      "v_name": "Geographic Areas",
+      "weight": "6",
+      "parent": "0"
+    },
+    {
+      "tid": "525",
+      "name": "Guardian",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "526",
+      "name": "Newsday",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "527",
+      "name": "Music",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "44"
+      }
+    },
+    {
+      "tid": "528",
+      "name": "New Music USA",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "529",
+      "name": "Colorado",
+      "v_name": "Geographic Areas",
+      "weight": "18",
+      "parent": "0"
+    },
+    {
+      "tid": "530",
+      "name": "Mad magazine",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "531",
+      "name": "Film",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "532",
+      "name": "Chicago Sun-Times",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "534",
+      "name": "Martin Luther King Jr.",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "537",
+      "name": "Barack Obama",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "538",
+      "name": "Commentary",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "39"
+      }
+    },
+    {
+      "tid": "540",
+      "name": "Photography",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "19"
+      }
+    },
+    {
+      "tid": "541",
+      "name": "Elections",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "542",
+      "name": "Presidency",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "3"
+      }
+    },
+    {
+      "tid": "543",
+      "name": "Fiction",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "76"
+      }
+    },
+    {
+      "tid": "544",
+      "name": "Novel",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "3"
+      }
+    },
+    {
+      "tid": "545",
+      "name": "Criticism",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "33"
+      }
+    },
+    {
+      "tid": "546",
+      "name": "South Dakota",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "547",
+      "name": "Guam",
+      "v_name": "Geographic Areas",
+      "weight": "16",
+      "parent": "0"
+    },
+    {
+      "tid": "548",
+      "name": "North Carolina",
+      "v_name": "Geographic Areas",
+      "weight": "12",
+      "parent": "0"
+    },
+    {
+      "tid": "549",
+      "name": "Alaska",
+      "v_name": "Geographic Areas",
+      "weight": "19",
+      "parent": "0"
+    },
+    {
+      "tid": "551",
+      "name": "Alabama",
+      "v_name": "Geographic Areas",
+      "weight": "31",
+      "parent": "0"
+    },
+    {
+      "tid": "552",
+      "name": "Arkansas",
+      "v_name": "Geographic Areas",
+      "weight": "20",
+      "parent": "0"
+    },
+    {
+      "tid": "553",
+      "name": "Biography",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "49"
+      }
+    },
+    {
+      "tid": "554",
+      "name": "Commentary",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "4"
+      }
+    },
+    {
+      "tid": "555",
+      "name": "West Virginia",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "556",
+      "name": "Utah",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "557",
+      "name": "Cartoon",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "4"
+      }
+    },
+    {
+      "tid": "558",
+      "name": "New Hampshire",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "559",
+      "name": "Poetry",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "75"
+      }
+    },
+    {
+      "tid": "560",
+      "name": "Poets on Poets",
+      "v_name": "Topics",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "561",
+      "name": "Drama",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "49"
+      }
+    },
+    {
+      "tid": "562",
+      "name": "International Reporting",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "26"
+      }
+    },
+    {
+      "tid": "563",
+      "name": "Missouri",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "564",
+      "name": "Rhode Island",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "565",
+      "name": "National Reporting",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "23"
+      }
+    },
+    {
+      "tid": "566",
+      "name": "History",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "48"
+      }
+    },
+    {
+      "tid": "567",
+      "name": "General Non-Fiction",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "41"
+      }
+    },
+    {
+      "tid": "568",
+      "name": "University of Virginia",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "569",
+      "name": "Indiana",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "570",
+      "name": "Adaptations",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "571",
+      "name": "Journalism",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "33"
+      }
+    },
+    {
+      "tid": "572",
+      "name": "New Mexico",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "573",
+      "name": "Washington",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "574",
+      "name": "Books",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "5"
+      }
+    },
+    {
+      "tid": "575",
+      "name": "Iowa",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "576",
+      "name": "Investigative Reporting",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "15"
+      }
+    },
+    {
+      "tid": "577",
+      "name": "Nevada",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "578",
+      "name": "The Boston Globe",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "579",
+      "name": "Feature Photography",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "22"
+      }
+    },
+    {
+      "tid": "580",
+      "name": "Public Service",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "30"
+      }
+    },
+    {
+      "tid": "581",
+      "name": "Pennsylvania",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "582",
+      "name": "Spot News Reporting",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "583",
+      "name": "Local Reporting",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "23"
+      }
+    },
+    {
+      "tid": "584",
+      "name": "Feature Writing",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "16"
+      }
+    },
+    {
+      "tid": "585",
+      "name": "Editorial Writing",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "28"
+      }
+    },
+    {
+      "tid": "586",
+      "name": "Oklahoma",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "587",
+      "name": "Idaho",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "588",
+      "name": "Louisiana",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "589",
+      "name": "Editorial Cartoon",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "18"
+      }
+    },
+    {
+      "tid": "590",
+      "name": "Autobiography",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "5"
+      }
+    },
+    {
+      "tid": "591",
+      "name": "Beat Reporting",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "592",
+      "name": "Nebraska",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "594",
+      "name": "Social Justice and Equality",
+      "v_name": "Topics",
+      "weight": "-3",
+      "parent": "0"
+    },
+    {
+      "tid": "595",
+      "name": "Delaware",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "596",
+      "name": "Special Citation",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "10"
+      }
+    },
+    {
+      "tid": "597",
+      "name": "Taiwan",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "598",
+      "name": "Spot News Photography",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "4"
+      }
+    },
+    {
+      "tid": "599",
+      "name": "Spot News Photography",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "600",
+      "name": "South Dakota",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "601",
+      "name": "2017",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Randell Beck, Joyce Dehli and Keven Ann Willey, chairs; Mike Pride, administrator"
+      }
+    },
+    {
+      "tid": "602",
+      "name": "Kansas",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "603",
+      "name": "Explanatory Reporting",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "21"
+      }
+    },
+    {
+      "tid": "604",
+      "name": "Eugene O&#039;Neill",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "605",
+      "name": "Tony",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "606",
+      "name": "Breaking News Photography",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "22"
+      }
+    },
+    {
+      "tid": "607",
+      "name": "Tennessee",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "610",
+      "name": "France",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "611",
+      "name": "Italy",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "613",
+      "name": "2018",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Eugene Robinson, chair; Dana Canedy, administrator"
+      }
+    },
+    {
+      "tid": "614",
+      "name": "Breaking News",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "4"
+      }
+    },
+    {
+      "tid": "615",
+      "name": "From the Administrator",
+      "v_name": "Topics",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "616",
+      "name": "Canada",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "617",
+      "name": "Theatre",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "618",
+      "name": "United Kingdom",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "619",
+      "name": "Humanitarian",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "620",
+      "name": "Michigan",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "621",
+      "name": "2019",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Robert Blau and Steven Hahn, co-chairs; Dana Canedy, administrator"
+      }
+    },
+    {
+      "tid": "622",
+      "name": "Back Story",
+      "v_name": "Topics",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "623",
+      "name": "New Jersey",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "624",
+      "name": "Arizona",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "625",
+      "name": "Explore Lists",
+      "v_name": "Explore Lists",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "626",
+      "name": "India",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "627",
+      "name": "2020",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Robert Blau and Steven Hahn, co-chairs; Dana Canedy, administrator"
+      }
+    },
+    {
+      "tid": "628",
+      "name": "Breaking News Reporting",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "13"
+      }
+    },
+    {
+      "tid": "629",
+      "name": "2019 Winners Reflect",
+      "v_name": "Topics",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "630",
+      "name": "Audio Reporting",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "14"
+      }
+    },
+    {
+      "tid": "632",
+      "name": "2021",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Stephen Engelberg and Aminda Marqués Gonzalez, co-chairs"
+      }
+    },
+    {
+      "tid": "633",
+      "name": "United Kingdom",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "634",
+      "name": "Correspondence",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "635",
+      "name": "2020 Winners Reflect",
+      "v_name": "Topics",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "636",
+      "name": "Virtual",
+      "v_name": "Geographic Areas",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "637",
+      "name": "Review",
+      "v_name": "Topics",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "638",
+      "name": "Explanatory Journalism",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "639",
+      "name": "Reporting",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "640",
+      "name": "2022",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Katherine Boo, Gail Collins and John Daniszewski, co-chairs; Marjorie Miller, administrator"
+      }
+    },
+    {
+      "tid": "641",
+      "name": "First Amendment",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "645",
+      "name": "2023",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Neil Brown and Tommie Shelby, co-chairs; Marjorie Miller, administrator"
+      }
+    },
+    {
+      "tid": "646",
+      "name": "Pulitzer Prize Board",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "647",
+      "name": "Memoir",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "2"
+      }
+    },
+    {
+      "tid": "648",
+      "name": "On the Road",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "11"
+      }
+    },
+    {
+      "tid": "651",
+      "name": "2024",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Neil Brown and Tommie Shelby, co-chairs; Marjorie Miller, administrator"
+      }
+    },
+    {
+      "tid": "652",
+      "name": "Jobs",
+      "v_name": "Tags",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "popularity": "1"
+      }
+    },
+    {
+      "tid": "653",
+      "name": "2025",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0",
+      "fields": {
+        "board_lander_sub_title": "Elizabeth Alexander and Emily Ramshaw, co-chairs; Marjorie Miller, administrator"
+      }
+    },
+    {
+      "tid": "654",
+      "name": "2026",
+      "v_name": "Years",
+      "weight": "0",
+      "parent": "0"
+    },
+    {
+      "tid": "204",
+      "name": "Public Service",
+      "v_name": "Award Category",
+      "weight": "0",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1917-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "205",
+      "name": "Breaking News Reporting",
+      "v_name": "Award Category",
+      "weight": "1",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1998-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "206",
+      "name": "Investigative Reporting",
+      "v_name": "Award Category",
+      "weight": "2",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1985-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "207",
+      "name": "Explanatory Reporting",
+      "v_name": "Award Category",
+      "weight": "3",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1998-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "208",
+      "name": "Local Reporting",
+      "v_name": "Award Category",
+      "weight": "4",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1948-1952, 2007-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "209",
+      "name": "National Reporting",
+      "v_name": "Award Category",
+      "weight": "5",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1948-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "210",
+      "name": "International Reporting",
+      "v_name": "Award Category",
+      "weight": "6",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1948-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "211",
+      "name": "Feature Writing",
+      "v_name": "Award Category",
+      "weight": "7",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1979-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "212",
+      "name": "Commentary",
+      "v_name": "Award Category",
+      "weight": "8",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1973-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "213",
+      "name": "Criticism",
+      "v_name": "Award Category",
+      "weight": "9",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1973-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "214",
+      "name": "Editorial Writing",
+      "v_name": "Award Category",
+      "weight": "10",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1917-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "215",
+      "name": "Editorial Cartooning",
+      "v_name": "Award Category",
+      "weight": "29",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1922-2021)"
+      }
+    },
+    {
+      "tid": "216",
+      "name": "Breaking News Photography",
+      "v_name": "Award Category",
+      "weight": "12",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(2000-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "217",
+      "name": "Feature Photography",
+      "v_name": "Award Category",
+      "weight": "13",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1968-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "263",
+      "name": "Correspondence",
+      "v_name": "Award Category",
+      "weight": "25",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1929-1947)"
+      }
+    },
+    {
+      "tid": "264",
+      "name": "Explanatory Journalism",
+      "v_name": "Award Category",
+      "weight": "22",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1985-1997)"
+      }
+    },
+    {
+      "tid": "265",
+      "name": "General News Reporting",
+      "v_name": "Award Category",
+      "weight": "18",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1985-1990)"
+      }
+    },
+    {
+      "tid": "266",
+      "name": "Local General or Spot News Reporting",
+      "v_name": "Award Category",
+      "weight": "17",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1964-1984)"
+      }
+    },
+    {
+      "tid": "267",
+      "name": "Local Investigative Specialized Reporting",
+      "v_name": "Award Category",
+      "weight": "21",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1964-1984)"
+      }
+    },
+    {
+      "tid": "268",
+      "name": "Local Reporting - Edition time",
+      "v_name": "Award Category",
+      "weight": "16",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1953-1963)"
+      }
+    },
+    {
+      "tid": "269",
+      "name": "Local Reporting - No edition time",
+      "v_name": "Award Category",
+      "weight": "20",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1953-1963)"
+      }
+    },
+    {
+      "tid": "270",
+      "name": "Newspaper History Award",
+      "v_name": "Award Category",
+      "weight": "32",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1918)"
+      }
+    },
+    {
+      "tid": "271",
+      "name": "Photography",
+      "v_name": "Award Category",
+      "weight": "30",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1942-1967)"
+      }
+    },
+    {
+      "tid": "272",
+      "name": "Reporting",
+      "v_name": "Award Category",
+      "weight": "15",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1917-1947)"
+      }
+    },
+    {
+      "tid": "273",
+      "name": "Specialized Reporting",
+      "v_name": "Award Category",
+      "weight": "23",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1985-1990)"
+      }
+    },
+    {
+      "tid": "274",
+      "name": "Spot News Photography",
+      "v_name": "Award Category",
+      "weight": "31",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1968-1999)"
+      }
+    },
+    {
+      "tid": "275",
+      "name": "Spot News Reporting",
+      "v_name": "Award Category",
+      "weight": "19",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1991-1997)"
+      }
+    },
+    {
+      "tid": "276",
+      "name": "Telegraphic Reporting - International",
+      "v_name": "Award Category",
+      "weight": "27",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1942-1947)"
+      }
+    },
+    {
+      "tid": "277",
+      "name": "Telegraphic Reporting - National",
+      "v_name": "Award Category",
+      "weight": "26",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1942-1947)"
+      }
+    },
+    {
+      "tid": "278",
+      "name": "Beat Reporting",
+      "v_name": "Award Category",
+      "weight": "24",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1991-2006)"
+      }
+    },
+    {
+      "tid": "609",
+      "name": "Criticism or Commentary",
+      "v_name": "Award Category",
+      "weight": "28",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(1970-1972)"
+      }
+    },
+    {
+      "tid": "631",
+      "name": "Audio Reporting",
+      "v_name": "Award Category",
+      "weight": "14",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(2020-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "644",
+      "name": "Illustrated Reporting and Commentary",
+      "v_name": "Award Category",
+      "weight": "11",
+      "parent": "257",
+      "fields": {
+        "active_year_note": "(2022-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "218",
+      "name": "Drama",
+      "v_name": "Award Category",
+      "weight": "1",
+      "parent": "258",
+      "fields": {
+        "active_year_note": "(1917-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "219",
+      "name": "Fiction",
+      "v_name": "Award Category",
+      "weight": "0",
+      "parent": "258",
+      "fields": {
+        "active_year_note": "(1948-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "220",
+      "name": "History",
+      "v_name": "Award Category",
+      "weight": "2",
+      "parent": "258",
+      "fields": {
+        "active_year_note": "(1917-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "222",
+      "name": "Biography",
+      "v_name": "Award Category",
+      "weight": "3",
+      "parent": "258",
+      "fields": {
+        "active_year_note": "(1917-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "223",
+      "name": "General Nonfiction",
+      "v_name": "Award Category",
+      "weight": "6",
+      "parent": "258",
+      "fields": {
+        "active_year_note": "(1962-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "224",
+      "name": "Poetry",
+      "v_name": "Award Category",
+      "weight": "5",
+      "parent": "258",
+      "fields": {
+        "active_year_note": "(1922-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "225",
+      "name": "Music",
+      "v_name": "Award Category",
+      "weight": "7",
+      "parent": "258",
+      "fields": {
+        "active_year_note": "(1943-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "261",
+      "name": "Novel",
+      "v_name": "Award Category",
+      "weight": "8",
+      "parent": "258",
+      "fields": {
+        "active_year_note": "(1917-1947)"
+      }
+    },
+    {
+      "tid": "650",
+      "name": "Memoir or Autobiography",
+      "v_name": "Award Category",
+      "weight": "4",
+      "parent": "258",
+      "fields": {
+        "active_year_note": "(2023-present)",
+        "property": "current"
+      }
+    },
+    {
+      "tid": "260",
+      "name": "Special Citations and Awards",
+      "v_name": "Award Category",
+      "weight": "0",
+      "parent": "259",
+      "fields": {
+        "active_year_note": "(1930-present)",
+        "property": "current"
+      }
+    }
+  ]

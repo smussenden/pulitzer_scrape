@@ -1,0 +1,74 @@
+---
+title: "Untitled"
+output: html_document
+date: "2025-05-13"
+---
+
+```{r}
+library(tidyverse)
+
+all_entries <- read_csv("csv/all_entries.csv") 
+
+select <- all_entries %>%
+  filter(!category %in% c("Biography","Drama","History","Poetry","Fiction","Music","General Nonfiction","Novel")) %>%
+  # to lower publication column and title column
+  mutate(publication = str_to_lower(publication) %>% str_remove_all(.,"[[:punct:]]") %>% str_squish(),
+         title = str_to_lower(title) %>% str_remove_all(.,"[[:punct:]]") %>% str_squish()) %>%
+  select(title, publication, everything()) 
+
+select_no_publication <- select %>%
+  filter(is.na(publication)) %>%
+  mutate(title_copy = title) %>%
+  separate(title_copy, into=c("a","b","c","d"), sep=" of ") %>%
+  select(-publication) %>%
+  # replace na in b, c, d cols with "" empty string
+  mutate(across(b:d, ~replace_na(.,""))) %>%
+  mutate(publication = paste0(b," ",c," ",d)) %>%
+  # str_squish publication col
+  mutate(publication = str_squish(publication)) %>%
+  mutate(title_raw = title) %>%
+  select(publication, title, title_raw, year, category, type, citation, publisher:tid_category) %>% 
+  arrange(publication, title) %>%
+  mutate(publication = case_when(
+    !is.na(publisher) ~ paste0(title," ",publisher),
+    publication == "" ~ title,
+    TRUE ~ publication
+  )) %>%
+  mutate(publication = str_to_lower(publication))
+
+select_w_publication <- select %>%
+  filter(!is.na(publication)) %>%
+  arrange(publication, title) %>%
+  mutate(title_raw = NA_character_) %>%
+  select(publication, title, title_raw, year, category, type, citation, publisher, everything())
+
+
+cleaned_all_journalism_entries <- select_w_publication %>%
+  bind_rows(select_no_publication) %>%
+  arrange(publication, title, year, category, type) %>%
+  mutate(`university program` = NA_character_,
+         notes = NA_character_) %>%
+  select(publication, title, `university program`,notes, everything())
+library(googlesheets4)
+sheet_write(cleaned_all_journalism_entries, ss = "https://docs.google.com/spreadsheets/d/1XxOPWj7SP9CaFct3oqeWpvX_0jtu9R-gjCZd_FRP8DM/edit?gid=0#gid=0", sheet = "all_entries")
+
+
+#  filter(!str_detect(publication, "new york times|new york|los angeles times|the washington post|the philadelphia inquirer|chicago tribune|boston globe|wall street journal|miami herald|newsday|st louis postdispatch|baltimore|dallas|chattanooga|petersburg"))
+
+
+
+categories <- cleaned_all_journalism_entries %>%
+  count(category, sort=TRUE) 
+
+publication <- cleaned_all_journalism_entries %>%
+  count(publication, sort=TRUE)
+
+title <- cleaned_all_journalism_entries %>%
+  count(title, sort=TRUE)
+
+pub_title <- cleaned_all_journalism_entries %>%
+#  filter(!str_detect(publication,"New York Times")) %>%
+  count(publication, title, sort=TRUE)
+  
+
+```

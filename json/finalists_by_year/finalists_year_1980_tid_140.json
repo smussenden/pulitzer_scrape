@@ -1,0 +1,1662 @@
+[
+    {
+        "title": "Ernest Samuels",
+        "nid": "3866",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/ernest-samuels",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "222"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Bernard Berenson, The Making of a Connoisseur\n"
+                }
+            ]
+        },
+        "field_publisher": {
+            "und": [
+                {
+                    "safe_value": "Belknap-Harvard\n"
+                }
+            ]
+        },
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Meryle Secrest",
+        "nid": "3867",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/meryle-secrest",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "222"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Being Bernard Berenson\n"
+                }
+            ]
+        },
+        "field_publisher": {
+            "und": [
+                {
+                    "safe_value": "Holt\n"
+                }
+            ]
+        },
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Geoffrey Wolff",
+        "nid": "3868",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/geoffrey-wolff",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "222"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Duke of Deception\n"
+                }
+            ]
+        },
+        "field_publisher": {
+            "und": [
+                {
+                    "safe_value": "Random House\n"
+                }
+            ]
+        },
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Richard Reeves",
+        "nid": "3869",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/richard-reeves",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "212"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Universal Press Syndicate\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Carl T. Rowan",
+        "nid": "3870",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/carl-t-rowan",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "212"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Chicago Sun-Times and Syndicate\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "William C. Glackin",
+        "nid": "3871",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/william-c-glackin",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "213"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Sacramento Bee\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "William K. Robertson",
+        "nid": "3872",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/william-k-robertson",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "213"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Miami Herald\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Richard Locher",
+        "nid": "3873",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/richard-locher",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "215"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Chicago Tribune\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Paul Szep",
+        "nid": "3874",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/paul-szep",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "215"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Boston Globe\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "John Alexander",
+        "nid": "3875",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/john-alexander",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "214"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Greensboro (NC) Daily News\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Alfred Ames and Joan Beck",
+        "nid": "3876",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/alfred-ames-and-joan-beck",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "214"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Chicago Tribune\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Bruce C. Davidson, Thomas N. Oliphant and Anne C. Wyman",
+        "nid": "3877",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/bruce-c-davidson-thomas-n-oliphant-and-anne-c-wyman",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "214"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Boston Globe\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Tom Dearmore",
+        "nid": "3878",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/tom-dearmore",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "214"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "San Francisco Examiner\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "David A. Kryszak",
+        "nid": "3879",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/david-kryszak",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For a series on children of Cambodia.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "217"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Detroit News\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "John J. Sunderland",
+        "nid": "3880",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/john-j-sunderland",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For a series on living and dying in a hospice.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "217"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Denver Post\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Bonnie M. Anderson",
+        "nid": "3881",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/bonnie-m-anderson",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For \u0026quot;Execution of My Father.\u0026quot;\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "211"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Miami Herald\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "John R. Camp",
+        "nid": "3882",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/john-r-camp",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For a series on Indians.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "211"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "St. Paul Pioneer Press\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Saul Pett",
+        "nid": "3883",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/saul-pett",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "On the snail darter.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "211"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Associated Press\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Philip Roth",
+        "nid": "3884",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/philip-roth",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "219"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Ghost Writer\n"
+                }
+            ]
+        },
+        "field_publisher": {
+            "und": [
+                {
+                    "safe_value": "Farrar\n"
+                }
+            ]
+        },
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "William Wharton",
+        "nid": "3885",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/william-wharton",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "219"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Birdy\n"
+                }
+            ]
+        },
+        "field_publisher": {
+            "und": [
+                {
+                    "safe_value": "Knopf\n"
+                }
+            ]
+        },
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Sandra M. Gilbert and Susan Gubar",
+        "nid": "3886",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/sandra-m-gilbert-and-susan-gubar",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "223"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Madwoman in the Attic\n"
+                }
+            ]
+        },
+        "field_publisher": {
+            "und": [
+                {
+                    "safe_value": "Yale\n"
+                }
+            ]
+        },
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Lewis Thomas",
+        "nid": "3887",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/lewis-thomas",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "223"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Medusa and the Snail\n"
+                }
+            ]
+        },
+        "field_publisher": {
+            "und": [
+                {
+                    "safe_value": "Viking\n"
+                }
+            ]
+        },
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Gary B. Nash",
+        "nid": "3888",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/gary-b-nash",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "220"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Urban Crucible\n"
+                }
+            ]
+        },
+        "field_publisher": {
+            "und": [
+                {
+                    "safe_value": "Harvard\n"
+                }
+            ]
+        },
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "John B. Unruh",
+        "nid": "3889",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/john-b-unruh",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "220"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Plains Across\n"
+                }
+            ]
+        },
+        "field_publisher": {
+            "und": [
+                {
+                    "safe_value": "Illinois\n"
+                }
+            ]
+        },
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Peter Arnett",
+        "nid": "3890",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/peter-arnett",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "On the world\u0026#039;s homeless.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "210"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Associated Press\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Fox Butterfield",
+        "nid": "3891",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/fox-butterfield",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For dispatches from China.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "210"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The New York Times\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Staff",
+        "nid": "3892",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/staff-0",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For coverage of Iran.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "210"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Los Angeles Times\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Staff",
+        "nid": "3893",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/staff-1",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For coverage of the worst air crash in history and the blizzard of 1979.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "266"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Chicago Tribune\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Staff",
+        "nid": "3894",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/staff-2",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For coverage of a shootout of the Ku Klux Klan\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "266"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Greensboro (NC) Daily News\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Carole E. Agus, Andrew V. Fetherston Jr. and Frederick J. Tuccillo",
+        "nid": "3895",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/carole-e-agus-andrew-v-fetherston-jr-and-frederick-j-tuccillo",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For investigation of a Long Island sewer scandal.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "267"
+                }
+            ]
+        },
+        "field_location_text": {
+            "und": [
+                {
+                    "safe_value": "Long Island, NY\n"
+                }
+            ]
+        },
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Newsday\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Charles R. Cook and James S. Carlton",
+        "nid": "3896",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/charles-r-cook-and-james-s-carlton",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For expose of shoddy waste disposal practices.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "267"
+                }
+            ]
+        },
+        "field_location_text": {
+            "und": [
+                {
+                    "safe_value": "Port Arthur, TX\n"
+                }
+            ]
+        },
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The News and Observer\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Judy Grande and Brian Gallagher",
+        "nid": "3897",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/judy-grande-and-brian-gallagher",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For investigation of the handling of local murders.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "267"
+                }
+            ]
+        },
+        "field_location_text": {
+            "und": [
+                {
+                    "safe_value": "Nyack, NY\n"
+                }
+            ]
+        },
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Journal-News\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Lewis M. Simons and Ron Shaffer",
+        "nid": "3898",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/lewis-m-simons-and-ron-shaffer",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For a series on fraud in a large black self-help program.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "267"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Washington Post\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Lukas Foss",
+        "nid": "3899",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/lukas-foss",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "Premiered by the Cleveland Orchestra.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "225"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Quintets for Orchestra\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Morton Subotnick",
+        "nid": "3900",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/morton-subotnick",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "Premiered at the Monday Evening Concerts, Los Angeles County Museum.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "225"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "After the Butterfly\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Joseph P. Albright",
+        "nid": "3901",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/joseph-p-albright",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For a series on energy.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "209"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Cox Newspapers\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "George Anthan",
+        "nid": "3902",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/george-anthan",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For a series on disappearing farmland.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "209"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Des Moines Register\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Staff",
+        "nid": "3903",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/staff-3",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For a series on chemicals in the environment, \u0026quot;Poisoning of America.\u0026quot;\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "209"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Los Angeles Times\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Richard Hugo",
+        "nid": "3904",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/richard-hugo",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "224"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Selected Poems\n"
+                }
+            ]
+        },
+        "field_publisher": {
+            "und": [
+                {
+                    "safe_value": "Norton\n"
+                }
+            ]
+        },
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Dave Smith",
+        "nid": "3905",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/dave-smith",
+        "field_abbr_citation": [],
+        "field_category": {
+            "und": [
+                {
+                    "tid": "224"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Goshawk, Antelope\n"
+                }
+            ]
+        },
+        "field_publisher": {
+            "und": [
+                {
+                    "safe_value": "University of Illinois\n"
+                }
+            ]
+        },
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Staff",
+        "nid": "3906",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/staff-4",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For disclosures of medical incompetence, malfeasance and abuse.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "204"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Miami Herald\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Staff",
+        "nid": "3907",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/staff-5",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For its series on police brutality.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "204"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Miami Herald\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Staff",
+        "nid": "3908",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/staff-6",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For a series on toxic waste.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "204"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The Philadelphia Inquirer\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Staff",
+        "nid": "3909",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/staff-7",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For its investigation of the Church of Scientology. (Moved by the Board to the National Reporting category.)\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "204"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "The St. Petersburg Times\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Robert L. Gay",
+        "nid": "3910",
+        "type": "finalist",
+        "changed": 1438981198,
+        "path_alias": "finalists\/robert-l-gay",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For a series on a crazed veteran and a churchful of hostages.\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "274"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Charleston (WV) Daily Mail\n"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    },
+    {
+        "title": "Michael Haering",
+        "nid": "3911",
+        "type": "finalist",
+        "changed": 1446828123,
+        "path_alias": "finalists\/michael-haering",
+        "field_abbr_citation": {
+            "und": [
+                {
+                    "safe_value": "For a shot of a girl being struck by a car at a street demonstration in Beverly Hills.\r\n"
+                }
+            ]
+        },
+        "field_category": {
+            "und": [
+                {
+                    "tid": "274"
+                }
+            ]
+        },
+        "field_location_text": [],
+        "field_publication": {
+            "und": [
+                {
+                    "safe_value": "Los Angeles Herald Examiner"
+                }
+            ]
+        },
+        "field_publisher": [],
+        "field_year": {
+            "und": [
+                {
+                    "tid": "140"
+                }
+            ]
+        }
+    }
+]
